@@ -4,7 +4,7 @@ void main()
 {
 char ch1='b';
 int R,T=0,i,M=0, char Name[20];
-char Names[5][20]={"Krishna","Malti","Shaurya","Rupan","Sunita"};
+char Names[5][20]={"Rupan","Krishna","Malti","Shaurya","Sunita"};
 printf("Enter Your name as you filled in the form\n");
 scanf("%s",Name);
 for(i=0;i<5;i++)
